@@ -71,7 +71,7 @@ This project is a full-stack application created to showcase my skills in buildi
 
 This project is deployed on Render and can be accessed at the following link:
 
-[https://letstry.up.railway.app](https://letstry.up.railway.app)
+[https://letstry.up.railway.app](https://letstrychatbot-production.up.railway.app/)
 
 ## Purpose
 
