@@ -1,14 +1,15 @@
-# Restroworks Chatbot
+# Let's Try Foods Chatbot
 
-This project is a full-stack application created to demonstrate my skills in building and deploying a chatbot using Node.js, Express, and EJS, integrated with Google Generative AI. The chatbot is designed to provide information about Restroworks and how their solutions can help businesses in the restaurant industry.
+This project is a full-stack application created to showcase my skills in building and deploying a chatbot using Node.js, Express, and EJS, integrated with Google Generative AI. The chatbot is designed to provide information about Let's Try Foods, their products, mission, and other relevant details.
 
 ## Project Overview
 
 ### Features
-- **Chatbot Integration**: Utilizes Google Generative AI to power the chatbot, providing detailed and accurate responses related to Restroworks' offerings.
-- **User Interaction**: The chatbot engages users by understanding their business needs and suggesting relevant solutions.
+- **Chatbot Integration**: Utilizes Google Generative AI to power the chatbot, providing detailed and accurate responses related to Let's Try Foods.
+- **User Interaction**: The chatbot engages users by answering queries about the company's offerings, mission, and website.
 - **EJS Templating**: The frontend is rendered using EJS, allowing for dynamic content based on user interactions.
 - **Express Server**: The backend is built with Express, handling routing, API requests, and serving static files.
+- **Website URL Handling**: The chatbot correctly responds with the official website URL when asked.
 
 ### Technologies Used
 - **Node.js**: Backend runtime environment.
@@ -41,12 +42,12 @@ This project is a full-stack application created to demonstrate my skills in bui
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/restroworks-chatbot.git
+   git clone https://github.com/yourusername/lets-try-chatbot.git
    ```
 
 2. **Install dependencies**:
    ```bash
-   cd restroworks-chatbot
+   cd lets-try-chatbot
    npm install
    ```
 
@@ -70,8 +71,8 @@ This project is a full-stack application created to demonstrate my skills in bui
 
 This project is deployed on Render and can be accessed at the following link:
 
-[https://restroworks-chatbot.onrender.com](https://restroworks-chatbot.onrender.com)
+[https://letstry.up.railway.app](https://letstry.up.railway.app)
 
 ## Purpose
 
-This project was created to showcase my full-stack development skills to the Restroworks team. It demonstrates my ability to integrate third-party AI services, build dynamic web applications, and deploy complex projects on cloud platforms.
+This project was created to showcase my full-stack development skills and ability to integrate AI services into a dynamic web application. The chatbot effectively assists users in learning about Let's Try Foods and its range of products.
